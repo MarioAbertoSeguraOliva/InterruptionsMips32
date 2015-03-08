@@ -1,0 +1,3 @@
+# InterruptionsMips32
+A practice for a subject, assembly code sucks
+Professor made me comment every single lane, I don't like commments, specially in assembly code....
